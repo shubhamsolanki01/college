@@ -1,0 +1,92 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+    margin: 0px;
+    height: fit-content;
+}
+
+.main{
+    margin: auto;
+    width: fit-content;
+    margin-top: 20%;
+    /* border: 1px solid black; */
+}
+
+.btc{
+    /* border: 1px solid black; */
+    width: fit-content;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+/* .btn{
+    border-radius: 3px;
+} */
+
+h1{
+    text-align: center;
+    margin: 0px;
+}
+
+p{
+    text-align: center;
+}
+
+.btnn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.7rem 2rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    backface-visibility: hidden;
+    border: 0.3rem solid transparent;
+    border-radius: 3rem;
+}
+
+.btn {
+    border-color: transparent;
+    transition: background-color 0.3s ease-in-out;
+}
+    
+.btn:hover {
+    background-color: hsla(189, 58%, 55%, 0.733);
+}
+
+.foot{
+    position: absolute;
+    top: 95.5%;
+}   
+
+#fcont{
+    position: absolute;
+    margin: 0%;
+    padding: 10px;
+    /* height: 40px; */
+    /* width: 40px; */
+    /* background-color: #fff; */
+    /* border-top-right-radius: 15px; */
+    /* border-bottom-right-radius: 15px; */
+}
+
+#bruh{
+    width: 40px;
+}
+
+#w3s{
+    color: gold;
+    text-decoration: none;
+}
+
+#table{
+    margin: auto;
+    width: fit-content;
+}
